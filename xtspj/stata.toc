@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtspj Split-panel jackknife estimation for fixed-effect panel data models Use xtspj With STATA 18
