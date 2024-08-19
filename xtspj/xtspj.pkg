@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'xtspj': Split-panel jackknife estimation for fixed-effect panel data models Use xtspj With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lxtspj.mlib
+f xtspj.ado
+f xtspj.sthlp
+f xtspj_fake_ml_prog.ado
