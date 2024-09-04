@@ -1,6 +1,8 @@
 # xtspj
 Split-panel jackknife estimation for fixed-effect panel data models Use xtspj With STATA 18
 
+https://www.youtube.com/watch?v=YwqXdohdy6I
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
